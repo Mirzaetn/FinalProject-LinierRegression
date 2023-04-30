@@ -9,5 +9,7 @@ Kesimpulan dari pembahasan final project kelompok kami menunjukan metode SVM yan
 dengan hasil parameter RMSE = 1348.6116
 
 Mokhammad Mirza Etnisa Haqiqi
+
 William Jordan
+
 Fantri Rizkiani
