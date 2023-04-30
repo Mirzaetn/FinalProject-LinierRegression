@@ -8,6 +8,10 @@ data set kali ini kelompok 3 menggunakan data alarm yang muncul pada aplikasi my
 Kesimpulan dari pembahasan final project kelompok kami menunjukan metode SVM yang paling baik diantara 2 metode yang penulis gunakan
 dengan hasil parameter RMSE = 1348.6116
 
+Terimakasih atas perhatian dan kerjasamanya 
+
+Best Regards,
+
 Mokhammad Mirza Etnisa Haqiqi
 
 William Jordan
